@@ -6,8 +6,8 @@
       <class name="com.atmecs.phpTravels.Phptravels">
         <methods>
           <include name="runPhpTravels"/>
-          <include name="declaration"/>
           <include name="closeBrowser"/>
+          <include name="browserSetUp"/>
         </methods>
       </class> <!-- com.atmecs.phpTravels.Phptravels -->
     </classes>

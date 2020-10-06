@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-24T10:01:04Z" name="Suite" finished-at="2020-09-24T10:01:22Z" duration-ms="18057">
+  <suite started-at="2020-10-05T08:00:19Z" name="Suite" finished-at="2020-10-05T08:00:38Z" duration-ms="18650">
     <groups>
     </groups>
-    <test started-at="2020-09-24T10:01:04Z" name="Test" finished-at="2020-09-24T10:01:22Z" duration-ms="18057">
+    <test started-at="2020-10-05T08:00:19Z" name="Test" finished-at="2020-10-05T08:00:38Z" duration-ms="18650">
       <class name="com.atmecs.phpTravels.Phptravels">
-        <test-method is-config="true" signature="declaration()[pri:0, instance:com.atmecs.phpTravels.Phptravels@6156496]" started-at="2020-09-24T10:01:04Z" name="declaration" finished-at="2020-09-24T10:01:12Z" duration-ms="7627" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.atmecs.phpTravels.Phptravels@b62fe6d]" started-at="2020-10-05T08:00:19Z" name="browserSetUp" finished-at="2020-10-05T08:00:27Z" duration-ms="7349" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- declaration -->
-        <test-method signature="runPhpTravels()[pri:0, instance:com.atmecs.phpTravels.Phptravels@6156496]" started-at="2020-09-24T10:01:12Z" name="runPhpTravels" finished-at="2020-09-24T10:01:22Z" duration-ms="10329" status="PASS">
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="runPhpTravels()[pri:0, instance:com.atmecs.phpTravels.Phptravels@b62fe6d]" started-at="2020-10-05T08:00:27Z" name="runPhpTravels" finished-at="2020-10-05T08:00:38Z" duration-ms="11207" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runPhpTravels -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.phpTravels.Phptravels@6156496]" started-at="2020-09-24T10:01:22Z" name="closeBrowser" finished-at="2020-09-24T10:01:22Z" duration-ms="78" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.phpTravels.Phptravels@b62fe6d]" started-at="2020-10-05T08:00:38Z" name="closeBrowser" finished-at="2020-10-05T08:00:38Z" duration-ms="72" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
